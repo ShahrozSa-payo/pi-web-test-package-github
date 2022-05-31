@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ShahrozSa-payo/pi-web-test-package-github/issues"
   },
-  "homepage": "https://github.com/ShahrozSa-payo/pi-web-test-package-github#readme"
+  "homepage": "https://github.com/ShahrozSa-payo/pi-web-test-package-github#readme",
+  "publishConfig": {
+    "@shahrozsa-payo:registry": "https://npm.pkg.github.com"
+  }
 }
