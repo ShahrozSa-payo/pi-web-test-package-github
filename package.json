@@ -1,0 +1,19 @@
+{
+  "name": "@shahrozsa-payo/pi-web-test-package-github",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShahrozSa-payo/pi-web-test-package-github.git"
+  },
+  "author": "Shahroz Saleem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShahrozSa-payo/pi-web-test-package-github/issues"
+  },
+  "homepage": "https://github.com/ShahrozSa-payo/pi-web-test-package-github#readme"
+}
